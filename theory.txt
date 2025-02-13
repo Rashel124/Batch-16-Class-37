@@ -1,0 +1,46 @@
+
+
+1. 1D Array (Index Array)
+2. 2D Array
+3. Associative Array 
+
+<!-- ===== 1D Array=========== -->
+
+let marks = [ 56, 54, 56, 78, 98, 490];
+              0,  1   2   3,  4,   5
+
+
+              <!-- ..........Associative Array........... -->
+
+let name = "Rahim";
+let age  = 43;
+let blood = "O+"
+let phone = "+8801910XXXXXXX";
+
+let man = {name:"Rahim", age: 43, blood: "O+", phone: "+8801910XXXXX"};
+
+
+<!-- .........2D Array........... -->
+
+
+//2D Array (2 Dimensional Array)
+
+let twoDimensionalArray = [
+[4, 31, 40, 23],
+[10, 20, 56, 54],
+[200, 200, 78, 90]
+];
+
+
+//Loop...........
+
+Types.........
+
+1. for Loop
+2. foreach Loop
+3. while Loop
+4. do while loop 
+
+for (initialization; condition/range; increment/decrement){
+    //Statement.........
+}
